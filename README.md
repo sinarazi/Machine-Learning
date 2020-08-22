@@ -2,7 +2,7 @@
 Machine leaning's SVM algorithm on Iris dataset.
 - based on Tabriz university's project.
 
-### Loading Iris dataset:
+### Loading Iris flower's dataset:
 
 <img src="https://user-images.githubusercontent.com/45029937/90252333-85b3e580-de54-11ea-87b4-ea4e3ccfff51.PNG" width="90%"></img> 
 
