@@ -1,5 +1,5 @@
 # SVM_Iris
-Machine leaning's SVM algorithm on Iris dataset.
+Machine leaning's SVM algorithm based on Iris dataset.
 - based on Tabriz university's project.
 
 ### Loading Iris flower's dataset:
