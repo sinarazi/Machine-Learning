@@ -1,5 +1,5 @@
 # SVM_Iris
-Machine leaning's SVM algorithm is based on the Iris dataset.
+Machine leaning's Support Vector Machine algorithm is based on the Iris dataset.
 - based on Tabriz university's project.
 
 ### Loading Iris flower's dataset:
