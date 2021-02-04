@@ -82,7 +82,7 @@ def output_data():  # Gotten data by GUI
 gui = Tk()
 gui.configure(background="blue3")
 gui.geometry("375x375")
-gui.title("الگوریتم یادگیری هب")
+gui.title("hebb learning algorithm")
 str_var = StringVar()
 
 my_arr = [IntVar(), IntVar(), IntVar(), IntVar(), IntVar(),
@@ -128,13 +128,13 @@ for i in range(n_rows):
 my_font = font.Font(size=14, family='Arial')
 my_font1 = font.Font(size=11, family='Arial')
 my_font2 = font.Font(size=11, family='Arial')
-label1 = Label(gui, text="الگوی کارکتری را انتخاب کنید", foreground="white", background="blue3")
+label1 = Label(gui, text="select your pattern", foreground="white", background="blue3")
 label1.grid(row=0, column=0, columnspan=5)
 label1.grid_rowconfigure(0, weight=1)
 label1.grid_columnconfigure(1, weight=1)
 label1['font'] = my_font
 
-label2 = Label(gui, text="انتخاب نوع کارکتری", foreground="white", background="blue3")
+label2 = Label(gui, text="choose", foreground="white", background="blue3")
 label2.grid(row=6, column=0, columnspan=5)
 label2.grid_rowconfigure(6, weight=1)
 label2.grid_columnconfigure(0, weight=1)
@@ -151,7 +151,7 @@ button1.grid_rowconfigure(7, weight=1)
 button1.grid_columnconfigure(1, weight=1)
 button1['font'] = my_font
 
-label3 = Label(gui, text="تهیه : سینا رازی مفتخر | 975361014", foreground="white", font=0.5, background="blue3")
+label3 = Label(gui, text="by : Sina Razi", foreground="white", font=0.5, background="blue3")
 label3.grid(row=8, column=0, columnspan=5)
 label3.grid_rowconfigure(8, weight=1)
 label3.grid_columnconfigure(0, weight=1)
