@@ -8,3 +8,6 @@ An ANN is based on a collection of connected units or nodes called artificial ne
 
 ## Hebbian 
 Hebbian theory is a neuroscientific theory claiming that an increase in synaptic efficacy arises from a presynaptic cell's repeated and persistent stimulation of a postsynaptic cell. It is an attempt to explain synaptic plasticity, the adaptation of brain neurons during the learning process.
+
+## Perceptron
+A perceptron is a simple model of a biological neuron in an artificial neural network. Perceptron is also the name of an early algorithm for supervised learning of binary classifiers.
