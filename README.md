@@ -10,3 +10,6 @@ Hebbian theory is a neuroscientific theory claiming that an increase in synaptic
 
 ## Perceptron
 A perceptron is a simple model of a biological neuron in an artificial neural network. Perceptron is also the name of an early algorithm for supervised learning of binary classifiers.
+
+## ADALINE(Adaptive Linear Neuron or later Adaptive Linear Element)
+Adaline is an early single-layer artificial neural network and the name of the physical device that implemented this network.[1][2][3][4][5] The network uses memistors. It was developed by Professor Bernard Widrow and his graduate student Ted Hoff at Stanford University in 1960. It is based on the McCulloch–Pitts neuron. It consists of a weight, a bias and a summation function.
