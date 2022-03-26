@@ -1,6 +1,6 @@
 # Machine Learning algorithms from scratch:
- -Linear Regression
- -Logistic Regression
- -Support Vector Machine
+ - Linear Regression
+ - Logistic Regression
+ - Support Vector Machine
 
 
