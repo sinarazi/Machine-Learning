@@ -1,16 +1,6 @@
-# SVM_Iris
-Machine leaning's Support Vector Machine algorithm is based on the Iris dataset.
-- based on Tabriz university's project.
+# Machine Learning algorithms from scratch:
+ -Linear Regression
+ -Logistic Regression
+ -Support Vector Machine
 
-### Loading Iris flower's dataset:
-
-<img src="https://user-images.githubusercontent.com/45029937/90252333-85b3e580-de54-11ea-87b4-ea4e3ccfff51.PNG" width="90%"></img> 
-
-### Iris flower SVM classification and plotting by Python:
-
-<img src="https://user-images.githubusercontent.com/45029937/90252386-a3814a80-de54-11ea-909c-af2f65f94da7.PNG" width="90%">
-
-### Iris flower SVM classification and plotting by R:
-
-</img> <img src="https://user-images.githubusercontent.com/45029937/90252415-b3992a00-de54-11ea-8085-bcf07b292b46.PNG" width="90%"></img> 
 
